@@ -1,0 +1,6 @@
+name: RadarGuidedMissile
+version: '${project.version}'
+main: me.zanomatt.radarguidedmissile.RadarGuidedMissile
+api-version: 1.19
+authors: [ ZANOMATT ]
+description: A plugin that makes firecharges a self-guided missile
